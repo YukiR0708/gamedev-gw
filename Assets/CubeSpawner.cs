@@ -22,7 +22,7 @@ public class CubeSpawner : MonoBehaviour
         }
     }
 
-    }
+}
 
 
 
